@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-new file
-=======
-practice makes person perfect
-so practice
-everyday is sdasd
->>>>>>> ffeedbbb0180d56876d8963d3fbffa369e444792
+enter file contents
